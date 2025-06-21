@@ -31,8 +31,8 @@ User tries to guess a secret number with hints.
 
 ---
 
-## 👨‍💻 Author
+
 
 **Shubham Desai**  
 B.Tech IT | JSPM RSCOE | 3rd Year  
-Targeting Internships & Placement 2025 (7+ LPA)
+
